@@ -63,8 +63,6 @@ $dairy=new dairy();
    <a href="index" button type="back" name="back" value="Validate" class="btn btn-info" id="save">Back</a>
    <br><br/>
   
-
-</body>
 <script>
   $(document).ready(function(){
       $('#save').click(function(){ 
@@ -87,4 +85,5 @@ $dairy=new dairy();
     
  });
   </script>
+  </body>
 </html>
